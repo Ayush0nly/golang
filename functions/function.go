@@ -28,4 +28,4 @@ func main() {
 	fmt.Println(ans1 , ans2)
 
 	add(5,6)                    // Arguments of the function add
-}~
+}
