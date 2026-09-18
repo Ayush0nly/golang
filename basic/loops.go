@@ -2,7 +2,7 @@ package main
 import "fmt"
 
 func main() {
-	/*x:=2
+	/* x:=2
 	for x<=5 {
 		fmt.Println(x)
 		x++
